@@ -21,3 +21,10 @@
     align-items: center;
     margin: 0;
 }
+
+.contactSpan {
+    overflow: hidden;
+    line-height: normal;
+    text-overflow: ellipsis;
+    max-width: 170px;
+}

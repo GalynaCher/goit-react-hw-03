@@ -16,3 +16,9 @@
 .formBtn {
     align-self: center;
 }
+
+.errorMsg {
+    color: red;
+    font-size: smaller;
+    margin-top: -10px;
+}
