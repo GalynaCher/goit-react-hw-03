@@ -27,4 +27,5 @@
     line-height: normal;
     text-overflow: ellipsis;
     max-width: 170px;
+    white-space: nowrap;
 }
